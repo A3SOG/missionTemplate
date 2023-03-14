@@ -1,0 +1,16 @@
+#include "config.h"
+
+enableDebugConsole = 1;
+
+respawn = "BASE";
+disableAI = 1;
+author = "J. Schmidt";
+onLoadName = "SOG Framework";
+onLoadMission = "SOG Framework by J. Schmidt";
+respawnDelay = 1;
+
+class Header {
+	gameType = Coop;
+	minPlayers = 1;
+	maxPlayers = 2;
+};
