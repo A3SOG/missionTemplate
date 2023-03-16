@@ -1,0 +1,14 @@
+#include "config.h"
+
+respawn = "BASE";
+disableAI = 1;
+author = "AUTH_NAME";
+onLoadName = "OP_NAME - SOGF";
+onLoadMission = "OP_NAME - SOGF by AUTH_NAME";
+respawnDelay = 1;
+
+class Header {
+	gameType = Coop;
+	minPlayers = 1;
+	maxPlayers = 32;
+};
