@@ -116,7 +116,12 @@ class SOG_CfgStores {
 				{"rhsusf_weap_m1911a1", 800, "RHS"},
 				{"rhsusf_weap_m9", 500, "RHS"}
 			};
-			storeAircraft[] = {
+			storeAircraft[] = {};
+			storeArmored[] = {
+				{"B_APC_Wheeled_01_cannon_F", 10000, "STOCK"},
+				{"B_MBT_01_TUSK_F", 10000, "STOCK"}
+			};
+			storeChopper[] = {
 				{"B_T_VTOL_01_infantry_F", 10000, "STOCK"},
 				{"B_T_VTOL_01_vehicle_F", 10000, "STOCK"},
 				{"B_T_VTOL_01_armed_F", 10000, "STOCK"},
@@ -127,11 +132,6 @@ class SOG_CfgStores {
 				{"B_Heli_Light_01_armed_F", 10000, "STOCK"},
 				{"B_Heli_Light_01_stripped_F", 10000, "STOCK"}
 			};
-			storeArmored[] = {
-				{"B_APC_Wheeled_01_cannon_F", 10000, "STOCK"},
-				{"B_MBT_01_TUSK_F", 10000, "STOCK"}
-			};
-			storeChopper[] = {};
 			storeMarine[] = {};
 			storeStatic[] = {};
 			storeUAV[] = {};
