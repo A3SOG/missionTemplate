@@ -11,7 +11,7 @@ onLoadMissionTime = 1;
 
 // Game type and player count
 class Header {
-	gameType = COOP;
+	gameType = SOG_DA;
 	minPlayers = 1;
 	maxPlayers = 32;
 };

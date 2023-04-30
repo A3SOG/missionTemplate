@@ -1,10 +1,15 @@
 class Params {
+	#include "params\paramArsType.h"
 	#include "params\paramDT.h"
 	#include "params\paramFuelCost.h"
 	#include "params\paramInsDeduct.h"
 	#include "params\paramMultiplyr.h"
 	#include "params\paramOpBudget.h"
+	#include "params\paramOpRating.h"
+	#include "params\paramPDBMode.h"
 	#include "params\paramRepairCost.h"
+	#include "params\paramTeamCoord.h"
+	#include "params\paramVAEnable.h"
 };
 
 #include "configs\banks.h"
