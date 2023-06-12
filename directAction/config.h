@@ -18,3 +18,5 @@ class Params {
 #include "configs\lockers.h"
 #include "configs\paygrades.h"
 #include "configs\stores.h"
+
+#include "\@sog_mod\userconfig\sog_phone.hpp"
