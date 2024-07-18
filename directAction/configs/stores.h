@@ -30,6 +30,10 @@ class SOG_CfgStores {
 				"SMA",
 				"TFAR"
 			};
+			storePaymentMethods[] = {
+				"Personal",
+				"Company Funds"
+			};
 			storeName = "General Military Surplus Store";
 			storeBackpacks[] = {
 				{"B_AssaultPack_rgr", 250, "STOCK"},
